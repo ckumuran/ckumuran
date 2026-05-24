@@ -1,6 +1,6 @@
 # Hello 👋, I'm Kumaran
 
-I'm a developer based in Bangalore who builds across the full spectrum — from low-level systems to full-stack web apps and AI-powered tools.
+I'm a developer who builds across the full spectrum — from low-level systems to full-stack web apps and AI-powered tools.
 ---
 
 ## 🌐 Socials
