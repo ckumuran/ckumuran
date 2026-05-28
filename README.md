@@ -3,13 +3,6 @@
 I'm a developer who builds across the full spectrum — from low-level systems to full-stack web apps and AI-powered tools.
 ---
 
-## 🌐 Socials
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kumaran-chandrashekar-b3a6a13b1/)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/ckumuran)
-
----
-
 ## 💻 Tech Stack
 
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
